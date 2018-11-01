@@ -1,0 +1,15 @@
+C:\Users\cpfztb\Documents\PhotoViewer\PhotoViewer\bin\Debug\PhotoViewer.exe.config
+C:\Users\cpfztb\Documents\PhotoViewer\PhotoViewer\bin\Debug\PhotoViewer.exe
+C:\Users\cpfztb\Documents\PhotoViewer\PhotoViewer\bin\Debug\PhotoViewer.pdb
+C:\Users\cpfztb\Documents\PhotoViewer\PhotoViewer\obj\Debug\PhotoViewer.csprojAssemblyReference.cache
+C:\Users\cpfztb\Documents\PhotoViewer\PhotoViewer\obj\Debug\MainWindow.g.cs
+C:\Users\cpfztb\Documents\PhotoViewer\PhotoViewer\obj\Debug\App.g.cs
+C:\Users\cpfztb\Documents\PhotoViewer\PhotoViewer\obj\Debug\PhotoViewer_MarkupCompile.cache
+C:\Users\cpfztb\Documents\PhotoViewer\PhotoViewer\obj\Debug\PhotoViewer_MarkupCompile.lref
+C:\Users\cpfztb\Documents\PhotoViewer\PhotoViewer\obj\Debug\MainWindow.baml
+C:\Users\cpfztb\Documents\PhotoViewer\PhotoViewer\obj\Debug\PhotoViewer.g.resources
+C:\Users\cpfztb\Documents\PhotoViewer\PhotoViewer\obj\Debug\PhotoViewer.Properties.Resources.resources
+C:\Users\cpfztb\Documents\PhotoViewer\PhotoViewer\obj\Debug\PhotoViewer.csproj.GenerateResource.cache
+C:\Users\cpfztb\Documents\PhotoViewer\PhotoViewer\obj\Debug\PhotoViewer.csproj.CoreCompileInputs.cache
+C:\Users\cpfztb\Documents\PhotoViewer\PhotoViewer\obj\Debug\PhotoViewer.exe
+C:\Users\cpfztb\Documents\PhotoViewer\PhotoViewer\obj\Debug\PhotoViewer.pdb
